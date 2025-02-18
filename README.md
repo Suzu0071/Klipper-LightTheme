@@ -4,6 +4,8 @@ Install any theme from kiauh and swap the custom.css found in .theme
 
 OR
 
+Delete the .theme and paste this into an ssh dialog:
+
 
 ```
 git clone https://github.com/Suzu0071/Klipper-LightTheme ~/printer_data/config/.theme
