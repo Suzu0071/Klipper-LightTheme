@@ -1,5 +1,7 @@
 # Klipper-LightTheme
 ----------------------------------------------------------
+<img src="./screenshot.png">
+
 Install any theme from kiauh and swap the custom.css found in .theme
 
 OR
