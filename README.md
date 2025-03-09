@@ -2,6 +2,8 @@
 ----------------------------------------------------------
 <img src="./screenshot.png">
 
+*Fluidd has it's quirks, use at your own will*
+
 Install any theme from kiauh and swap the custom.css found in .theme
 
 OR
